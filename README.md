@@ -1,5 +1,7 @@
 # offlinebot
 
+![screenshot](/screenshot.png "offlinebot in action")
+
 offlinebot is a Slack [slash command](https://api.slack.com/slash-commands) and [incoming webhook](https://api.slack.com/incoming-webhooks) for anonymously suggesting to take this conversation offline. Inspiration from [nsbarr](https://github.com/nsbarr).
 
 ## Setup
